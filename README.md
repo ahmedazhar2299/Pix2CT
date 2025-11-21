@@ -74,7 +74,9 @@ The project pipeline consists of two independent but complementary parts:
 ![Training Accuracy and Loss](images/training_curves.png)
 
 *Confusion Matrix:*
-![Confusion Matrix](images/confusion_matrix.png)
+<div style="text-align: center;">
+  <img src="images/confusion_matrix.png" alt="Confusion Matrix" width="400"/>
+</div>
 
 ---
 
